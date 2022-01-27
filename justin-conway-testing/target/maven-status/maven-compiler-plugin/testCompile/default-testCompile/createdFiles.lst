@@ -1,0 +1,5 @@
+com/justin/conway/tests/AmazonSearchTest.class
+com/justin/conway/pages/ItemPage.class
+com/justin/conway/pages/CartPage.class
+com/justin/conway/pages/AmazonMainPage.class
+com/justin/conway/pages/CompareSimilarModalPage.class
